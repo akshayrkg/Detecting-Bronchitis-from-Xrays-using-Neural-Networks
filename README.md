@@ -1,6 +1,6 @@
 # Detecting-Bronchitis-from-Xrays-using-Neural-Networks
 
-Implementing Transfer Lerarning
+Implemented Convolutional Neural Networks and Transfer Learning to classify abnormal lungs by looking at a patient's lung X-ray and thus detecting Bronchitis. 
 
 
-Making use of Alexnet architecture to detect Bronchitis from a patient's Chest X-Ray
+Used Pre-trained Alexnet architecture and fine-tuned to perform on the X-ray dataset. 
